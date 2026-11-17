@@ -6,7 +6,7 @@ export async function GET() {
   return rss({
     title: 'Blog — GameGeek-Saikel',
     description: '技术文章与随想',
-    site: 'https://saikel-orado-liu.github.io',
+    site: 'https://gamegeek-saikel.github.io',
     items: posts.map(post => ({
       title: post.data.title,
       pubDate: post.data.date,

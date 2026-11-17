@@ -35,7 +35,7 @@ const specLocalOnly = () => ({
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://saikel-orado-liu.github.io',
+  site: 'https://gamegeek-saikel.github.io',
   output: 'static',
 
   prefetch: {

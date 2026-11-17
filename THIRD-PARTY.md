@@ -53,4 +53,4 @@ content is reproduced in this repository.
 ## Corrections
 
 If you believe an attribution is missing or inaccurate, please open an issue at
-<https://github.com/Saikel-Orado-Liu/saikel-orado-liu.github.io/issues> — it will be corrected promptly.
+<https://github.com/GameGeek-Saikel/gamegeek-saikel.github.io/issues> — it will be corrected promptly.

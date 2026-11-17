@@ -1,14 +1,14 @@
 {
-  "name": "saikel-orado-liu.github.io",
+  "name": "gamegeek-saikel.github.io",
   "type": "module",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "author": "Saikel-Orado-Liu (GameGeek-Saikel)",
-  "homepage": "https://saikel-orado-liu.github.io",
+  "homepage": "https://gamegeek-saikel.github.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Saikel-Orado-Liu/saikel-orado-liu.github.io.git"
+    "url": "git+https://github.com/GameGeek-Saikel/gamegeek-saikel.github.io.git"
   },
   "packageManager": "pnpm@12.4.1",
   "scripts": {

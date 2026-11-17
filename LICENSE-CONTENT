@@ -7,7 +7,7 @@
 > **Both files carry the same terms — changes must be applied to both.**
 
 This license covers the **textual, editorial and brand content** of this repository and of the
-website published from it (<https://saikel-orado-liu.github.io>). The source code and the
+website published from it (<https://gamegeek-saikel.github.io>). The source code and the
 design-system implementation are licensed separately under the MIT License — see [`LICENSE`](./LICENSE).
 
 ---
@@ -36,7 +36,7 @@ Third-party material is excluded from both licenses and remains under its own te
 2. **Quote short excerpts** — a few sentences, or up to roughly one paragraph per work — provided
    attribution is clear and complete:
    - the author name **Saikel-Orado-Liu (GameGeek-Saikel)**;
-   - a **link to the original page** on <https://saikel-orado-liu.github.io>;
+   - a **link to the original page** on <https://gamegeek-saikel.github.io>;
    - no implication that the author endorses you, your product or your viewpoint.
 3. **Learn from** the design specifications and **implement your own independent version** of
    similar patterns, layouts or techniques. Ideas, methods and design concepts are not restricted
@@ -63,7 +63,7 @@ Permission is handled case by case and is usually granted for reasonable uses (e
 with attribution, quoting in a book, educational material). Ask via GitHub, describing the intended
 use, medium and scope:
 
-- GitHub — <https://github.com/Saikel-Orado-Liu>
+- GitHub — <https://github.com/GameGeek-Saikel>
 - X (Twitter) — <https://x.com/GameGeek_Saikel>
 
 Attribution is required in every permitted use; permission only widens the *scope* of reuse.

@@ -21,7 +21,7 @@ if (!keyFile) {
 }
 
 const key = readFileSync(join(publicDir, keyFile), 'utf8').trim();
-const host = 'saikel-orado-liu.github.io';
+const host = 'gamegeek-saikel.github.io';
 const keyLocation = `https://${host}/${keyFile}`;
 
 // ---- Sitemap parsing ----

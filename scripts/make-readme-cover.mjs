@@ -175,7 +175,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <text x="214" y="272" font-size="16.5" fill="${textDim}"
         font-family="'Segoe UI',system-ui,sans-serif">Blog · Unreal Engine 5 plugin docs · Acrylic design system</text>
   <text x="1180" y="270" font-size="14.5" fill="rgba(173,173,173,0.85)" text-anchor="end"
-        font-family="'Segoe UI',system-ui,sans-serif">saikel-orado-liu.github.io</text>
+        font-family="'Segoe UI',system-ui,sans-serif">gamegeek-saikel.github.io</text>
 
   <!-- 胶囊 tag × 3（小型控件板级：圆角拟物） -->
   ${tags.join('\n  ')}

@@ -12,7 +12,7 @@ export async function GET({ params }: { params: { locale: string } }) {
   return rss({
     title: 'Blog — GameGeek-Saikel',
     description: 'Tech articles and thoughts',
-    site: 'https://saikel-orado-liu.github.io',
+    site: 'https://gamegeek-saikel.github.io',
     items: posts.map(post => ({
       title: post.data.title,
       pubDate: post.data.date,

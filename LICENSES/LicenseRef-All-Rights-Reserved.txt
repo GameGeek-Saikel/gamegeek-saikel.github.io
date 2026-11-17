@@ -40,7 +40,7 @@ repository and of the website published from it:
       statements.
 
 3. Requests
-   GitHub  https://github.com/Saikel-Orado-Liu
+   GitHub  https://github.com/GameGeek-Saikel
    X       https://x.com/GameGeek_Saikel
 
    Attribution is required in every permitted use; permission only widens the
